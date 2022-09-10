@@ -12,12 +12,12 @@
     height: 100vh;
 }
 
-#backgroundImg{
+/* #backgroundImg{
     min-width: 100%;
     min-height: 100%;
     min-width: 100%;
     min-height: 100%;
-}
+} */
 
 #application{
     border: 10px solid gray;
